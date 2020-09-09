@@ -1,6 +1,6 @@
 <?php
 
-namespace Shadow\IntercomLaravel;
+namespace Weav\IntercomLaravel;
 
 use Illuminate\Support\Facades\Facade as IlluminateFacade;
 

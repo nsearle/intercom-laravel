@@ -1,6 +1,6 @@
 <?php
 
-namespace Shadow\IntercomLaravel;
+namespace Weav\IntercomLaravel;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider as IlluminateServiceProvider;

@@ -18,16 +18,16 @@
   },
   "autoload": {
     "psr-4": {
-      "Shadow\\IntercomLaravel\\": "src/"
+      "Weav\\IntercomLaravel\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Shadow\\IntercomLaravel\\ServiceProvider"
+        "Weav\\IntercomLaravel\\ServiceProvider"
       ],
       "aliases": {
-        "Intercom": "Shadow\\IntercomLaravel\\Facade"
+        "Intercom": "Weav\\IntercomLaravel\\Facade"
       }
     }
   }
